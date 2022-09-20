@@ -1,4 +1,4 @@
-#2023 internships in Singapore for CS/DS Majors
+# 2023 internships in Singapore for CS/DS Majors
 Inspired by the Pitt Summer 2023 Internship page here for the US/Canada
 
 | Company | Time Period | Positions | Application Status/Deadline |
